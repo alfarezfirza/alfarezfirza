@@ -13,7 +13,7 @@
 Hi, I'm **Alfarez Firza** — a passionate full-stack developer building modern, scalable web applications. I focus on creating impactful digital solutions for education and beyond.
 
 - 💻 Currently working on **SekolahMU** — an all-in-one school management platform
-- 🌱 Exploring **Next.js**, **Laravel**, and cloud architecture
+- 🌱 Exploring **Next.js**, **Laravel**, **Rust**, and cloud architecture
 - 🎯 Goal: Build technology that makes education accessible and efficient
 - ⚡ Fun fact: I turn complex problems into clean, maintainable code
 
@@ -38,6 +38,15 @@ Hi, I'm **Alfarez Firza** — a passionate full-stack developer building modern,
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ### Tools & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -45,14 +54,6 @@ Hi, I'm **Alfarez Firza** — a passionate full-stack developer building modern,
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Coolify](https://img.shields.io/badge/Coolify-5C5CFF?style=for-the-badge&logo=coolify&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
@@ -105,7 +106,7 @@ Hi, I'm **Alfarez Firza** — a passionate full-stack developer building modern,
   </tr>
   <tr>
     <td><b>Stack</b></td>
-    <td>Next.js 16 • TypeScript • Prisma • PostgreSQL • Tailwind CSS • GOWA WhatsApp</td>
+    <td>Next.js 16 • TypeScript • Prisma • PostgreSQL • Tailwind CSS • Laravel • Rust</td>
   </tr>
   <tr>
     <td><b>Features</b></td>
@@ -120,7 +121,6 @@ Hi, I'm **Alfarez Firza** — a passionate full-stack developer building modern,
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-alfarezfirza-181717?style=for-the-badge&logo=github)](https://github.com/alfarezfirza)
-[![Email](https://img.shields.io/badge/Email-alfarezahmad18@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfarezahmad18@gmail.com)
 
 </div>
 
@@ -132,7 +132,5 @@ Hi, I'm **Alfarez Firza** — a passionate full-stack developer building modern,
 
 <div align="center">
   <br/>
-  <strong>✍️ "Code is like humor. When you have to explain it, it's bad."</strong>
-  <br/><br/>
   <sub>⭐ From <a href="https://github.com/alfarezfirza">alfarezfirza</a></sub>
 </div>
